@@ -33,6 +33,10 @@ A Power BI analytics dashboard built to track and visualize **business performan
 
 ---
 
+## 📸 Dashboard Screenshot
+
+![Blinkit Dashboard Preview](Blinkit Dashboard.jpg)
+
 ## 🛠️ Tools Used
 
 - Power BI Desktop
